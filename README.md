@@ -3,4 +3,4 @@ Tableau and MS Excel based project anticipates no. of hours an Australian busine
 
 Tools: Tableau, SQL, Ms Excel
 
-![labour_data_analysis](https://github.com/ShrishtiHore/Labour-Data-Forecasting-and-Analysis/blob/main/Labour_Data_Forcasting_And_Analysis.PNG)
+![labour_data_analysis](https://github.com/ShrishtiHore/Labour-Data-Forecasting-and-Analysis/blob/main/Labour_Data_Forcasting_And_Analysis2.PNG)
